@@ -1,0 +1,29 @@
+h1 {
+  color: coral;
+  font-size: 100px;
+  text-align: center;
+  background-color: rgb(156, 52, 18);
+}
+
+#ortiz {
+  color: pink;
+  font-size: 20px;
+  text-align: center;
+  background-color: lightcyan;
+}
+#muñoz {
+  color: mediumslateblue;
+  font-size: 20px;
+  text-align: center;
+  background-color: lavender;
+}
+
+#lina {
+  color: blue;
+  text-align: center;
+}
+
+#andrea {
+  color: green;
+  text-align: right;
+}
