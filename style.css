@@ -3,3 +3,29 @@
   text-align: center;
   text-shadow: 3px 3px gray;
 }
+
+#p1 {
+  background-color: yellow;
+}
+
+#p2 {
+  color: green;
+}
+
+#p3,
+#p4 {
+  color: white;
+  background-color: black;
+}
+
+#p5,
+#p6 {
+  color: blue;
+  text-transform: uppercase
+  text-shadow: 3px 3px gray;;
+}
+
+#p7 {
+  text-shadow: 3px 3px gray;
+  font-size: 50px;
+}
