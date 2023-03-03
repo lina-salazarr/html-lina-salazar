@@ -1,7 +1,7 @@
 #lina {
-  color: black;
+  color: red;
   text-align: center;
-  text-shadow: 3px 3px gray;
+  text-shadow: 3px 3px palevioletred;
 }
 
 #p1 {
@@ -21,8 +21,7 @@
 #p5,
 #p6 {
   color: blue;
-  text-transform: uppercase
-  text-shadow: 3px 3px gray;;
+  text-transform: uppercase;
 }
 
 #p7 {
