@@ -1,20 +1,41 @@
+#titulo1 {
+  color: plum;
+  font-size: 40px;
+  text-align: left;
+  background-color: palevioletred;
+}
+
+#titulo2 {
+  color: rgb(224, 82, 82);
+  font-size: 40px;
+  text-align: left;
+  background-color: lightcoral;
+}
+
+#titulo3 {
+  color: lightskyblue;
+  font-size: 40px;
+  text-align: left;
+  background-color: cornflowerblue;
+}
+
 #img1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  background-color: yellow (156, 52, 18);
+  filter: grayscale(10%) drop-shadow(10px 10px rgb(218, 89, 218));
 }
 
 #img2 {
   display: block;
   margin-right: auto;
   margin-left: 0px;
-  background-color: yellow;
+  filter: grayscale(10%) drop-shadow(10px 10px rgb(247, 68, 68));
 }
 
 #img3 {
   display: block;
   margin-right: 0px;
   margin-left: auto;
-  background-color: yellow;
+  filter: grayscale(10%) drop-shadow(10px 10px rgb(18, 22, 255));
 }
