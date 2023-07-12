@@ -1,18 +1,21 @@
-tr { 
-  color: grey;
-#imagen1 {
-  width: 50px;
-  height: 50px;
+body {
+  background-color: antiquewhite;
 }
-#imagen2 {
-  width: 100px;
-  height: 100px;
+
+h1 {
+  text-align: center;
 }
-#imagen3 {
-  width: 100px;
-  height: 100px;
+
+canvas {
+  background-color: darkkhaki;
+  position: relative;
+  border: 20px solid khaki;
+  left: 35px;
 }
-#imagen4 {
-  width: 100px;
-  height: 100px;
+
+.canvaret {
+  background-color: violet;
+  position: relative;
+  left: 30px;
+  border: 20px solid plum;
 }
