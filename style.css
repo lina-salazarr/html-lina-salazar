@@ -1,21 +1,13 @@
 body {
-  background-color: antiquewhite;
+  background-color: paleturquoise;
 }
-
 h1 {
   text-align: center;
 }
-
 canvas {
-  background-color: darkkhaki;
+  background-color: lavender;
   position: relative;
-  border: 20px solid khaki;
-  left: 35px;
-}
-
-.canvaret {
-  background-color: violet;
-  position: relative;
-  left: 30px;
-  border: 20px solid plum;
+  top: 200px;
+  left: 400px;
+  border: 20px solid lightblue;
 }
